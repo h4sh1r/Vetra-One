@@ -1,0 +1,1 @@
+# Placeholder for real-time data fetching using yfinance or Alpha Vantage
